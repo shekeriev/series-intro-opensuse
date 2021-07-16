@@ -8,9 +8,9 @@ This is a three-part initiative aimed towards people making their first steps in
 * Updated on: 2021.07.09
 
 ## Part 2: Getting to know YaST 
-* Will take place on: 2021.07.15 / 18:30 / on-line
+* Held on: 2021.07.15 / 18:30 / on-line
 * Expected length: 1:30 - 2:00 h
-* Yet to be uploaded
+* Updated on: 2021.07.16
 
 ## Part 3: Managing the system whout YaST
 * Will take place on: 2021.07.22 / 18:30 / on-line
