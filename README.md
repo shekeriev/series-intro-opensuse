@@ -13,9 +13,9 @@ This is a three-part initiative aimed towards people making their first steps in
 * Updated on: 2021.07.16
 
 ## Part 3: Managing the system whout YaST
-* Will take place on: 2021.07.22 / 18:30 / on-line
+* Held on: 2021.07.22 / 18:30 / on-line
 * Expected length: 1:30 - 2:00 h
-* Yet to be uploaded
+* Updated on: 2021.07.26
 
 ## Supporting files
 Each folder (part-x) contains files stored in the following structure:
